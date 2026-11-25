@@ -136,7 +136,7 @@ export default function App() {
         <section className="welcome-row">
           <div>
             <div className="eyebrow"><Sparkles size={14} /> YOUR PERSONAL STUDY SPACE</div>
-            <h1>Make today <span>count.</span></h1>
+            <h1>Make today <span>count. CI/CD Test</span></h1>
             <p>A little progress each day adds up to big results.</p>
           </div>
           <button className="button button-primary add-main" onClick={openCreate}><Plus size={18} /> Add new task</button>
